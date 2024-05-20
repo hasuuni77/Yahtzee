@@ -1,2 +1,2 @@
 # Yahtzee
-Dice game
+Hassan Farah
